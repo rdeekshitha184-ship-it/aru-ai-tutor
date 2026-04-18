@@ -123,14 +123,14 @@ Adaptive Feedback (Hint / Simplify / Answer)
 ## 📸 Screenshots
 
 ![Architecture](assets/architecture.png)  
-![UI 1](assets/p1.png)  
-![UI 2](assets/p2.png)  
-![UI 3](assets/p3.png)  
-![UI 4](assets/p4.png)  
-![UI 5](assets/p5C.png)  
-![UI 6](assets/p6.png)  
-![UI 7](assets/p7.png)
-![UI 8](assets/p8.png) 
+![UI 1](assets/p11.png)  
+![UI 2](assets/p22.png)  
+![UI 3](assets/p33.png)  
+![UI 4](assets/p44.png)  
+![UI 5](assets/p5CC.png)  
+![UI 6](assets/p66.png)  
+![UI 7](assets/p77.png)
+![UI 8](assets/p88.png) 
 
 
 ---
